@@ -20,7 +20,11 @@
   - 📜 **Objektorienterad programmering, avancerad**
 
 ---
+## 📌 Projekt
 
+🔗 [Grupparbete CV-applikation](https://github.com/antonjohanssoon/Grupparbete-CV-applikation) - Ett grupprojekt där vi utvecklade en CV-applikation med fokus på användarvänlighet och modern webbutveckling.
+
+---
 ## 🛠️ Verktyg och Kompetens
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
