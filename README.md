@@ -22,7 +22,7 @@
 ---
 ## 📌 Projekt
 
-🔗 [Grupparbete CV-applikation](https://github.com/antonjohanssoon/Grupparbete-CV-applikation) - Ett grupprojekt där vi utvecklade en CV-applikation med fokus på användarvänlighet och modern webbutveckling.
+🔗 [Grupparbete CV-applikation](https://github.com/antonjohanssoon/Grupparbete-CV-applikation) - Ett grupprojekt där vi utvecklade en CV-applikation med fokus på användarvänlighet med hjälp av AI. Kika gärna in videogenomgången av applikationen via länken.
 
 ---
 ## 🛠️ Verktyg och Kompetens
