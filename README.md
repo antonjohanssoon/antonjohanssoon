@@ -6,7 +6,7 @@
 - 🌟 En passionerad utvecklare med intresse för problemlösning och innovation
 - 🤖 Ständigt lärande, utforskar nya teknologier och vill alltid lära mig något nytt!
 - 🎨 Intresserad av ren kod, systemdesign och AI
-- 🎤 Golf, umgås med vänner & familj samt resor är mina stora intressen
+- 🏌️‍♂️ Golf, umgås med vänner & familj samt resor är mina stora intressen
 
 - 📚 Kurser
   - 📜 **Introduktion till systemutveckling**
