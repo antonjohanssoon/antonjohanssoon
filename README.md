@@ -5,8 +5,8 @@
 - 🎓 Nyexaminerad Systemutvecklare - Objektorienterad systemutveckling vid NBI/ Handelsakademin
 - 🌟 En passionerad utvecklare med intresse för problemlösning och innovation
 - 🤖 Ständigt lärande, utforskar nya teknologier och vill alltid lära mig något nytt!
-- 🎨 Intresserad av ren kod, systemdesign och AI
-- 🏌️‍♂️ Golf, umgås med vänner & familj samt resor är mina stora intressen
+- 🎨 Intresserad av Clean code, databaser (SSMS) och AI
+- 🏌️‍♂️ Idrott, umgås med vänner & familj samt resor är mina stora intressen
 
 - 📚 Kurser
   - 📜 **Introduktion till systemutveckling**
