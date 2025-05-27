@@ -2,7 +2,7 @@
 
 ## Om mig
 
-- 🎓 Studerar Systemutvecklare - Objektorienterad systemutveckling vid NBI/ Handelsakademin
+- 🎓 Nyexaminerad Systemutvecklare - Objektorienterad systemutveckling vid NBI/ Handelsakademin
 - 🌟 En passionerad utvecklare med intresse för problemlösning och innovation
 - 🤖 Ständigt lärande, utforskar nya teknologier och vill alltid lära mig något nytt!
 - 🎨 Intresserad av ren kod, systemdesign och AI
